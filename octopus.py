@@ -1,2 +1,2 @@
 print('I am octopus')
-print('I am with glasses right now')
+print('I am with cool glasses right now')
